@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:clickable="true"
+    android:layout_marginEnd="18dp"
+    android:padding="4dp">
+
+    <FrameLayout
+        android:layout_width="260dp"
+        android:layout_height="200dp"
+        android:background="@drawable/card_action_bg"
+        android:foreground="@drawable/card_focus"
+        android:clipToOutline="true"
+        android:duplicateParentState="true">
+
+        <TextView
+            android:id="@+id/actionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/actionSubtitle"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textColor="#9AA3C7"
+        android:textSize="13sp" />
+</LinearLayout>

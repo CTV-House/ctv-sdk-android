@@ -1,0 +1,112 @@
+{
+  "movies": [
+    {
+      "id": "m1",
+      "title": "Big Buck Bunny",
+      "year": 2008,
+      "genre": "Новинки",
+      "posterUrl": "https://picsum.photos/seed/ctv-m1/400/600",
+      "description": "Большой добрый кролик даёт отпор трём грызунам-задирам. Классика открытого кино.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m2",
+      "title": "Elephants Dream",
+      "year": 2006,
+      "genre": "Новинки",
+      "posterUrl": "https://picsum.photos/seed/ctv-m2/400/600",
+      "description": "Сюрреалистичное путешествие двух персонажей по странному механическому миру.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m3",
+      "title": "Sintel",
+      "year": 2010,
+      "genre": "Новинки",
+      "posterUrl": "https://picsum.photos/seed/ctv-m3/400/600",
+      "description": "Девушка отправляется на поиски своего потерянного дракона.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m4",
+      "title": "Tears of Steel",
+      "year": 2012,
+      "genre": "Фантастика",
+      "posterUrl": "https://picsum.photos/seed/ctv-m4/400/600",
+      "description": "Группа воинов и учёных пытается спасти мир от роботов в постапокалиптическом Амстердаме.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m5",
+      "title": "Cosmos Drift",
+      "year": 2021,
+      "genre": "Фантастика",
+      "posterUrl": "https://picsum.photos/seed/ctv-m5/400/600",
+      "description": "Экипаж грузового корабля обнаруживает сигнал из глубин космоса.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m6",
+      "title": "City Lights",
+      "year": 2019,
+      "genre": "Драма",
+      "posterUrl": "https://picsum.photos/seed/ctv-m6/400/600",
+      "description": "История о людях большого города, чьи судьбы неожиданно переплетаются.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m7",
+      "title": "The Last Road",
+      "year": 2017,
+      "genre": "Драма",
+      "posterUrl": "https://picsum.photos/seed/ctv-m7/400/600",
+      "description": "Путешествие длиной в жизнь по бесконечной дороге на север.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m8",
+      "title": "Laugh Out Loud",
+      "year": 2022,
+      "genre": "Комедия",
+      "posterUrl": "https://picsum.photos/seed/ctv-m8/400/600",
+      "description": "Неудачливый стендапер получает шанс выступить на главной сцене страны.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m9",
+      "title": "Weekend Plan",
+      "year": 2020,
+      "genre": "Комедия",
+      "posterUrl": "https://picsum.photos/seed/ctv-m9/400/600",
+      "description": "Идеальный уик-энд превращается в цепочку абсурдных приключений.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m10",
+      "title": "Iron Strike",
+      "year": 2023,
+      "genre": "Боевик",
+      "posterUrl": "https://picsum.photos/seed/ctv-m10/400/600",
+      "description": "Бывший спецназовец выходит на след международного синдиката.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m11",
+      "title": "Night Pursuit",
+      "year": 2018,
+      "genre": "Боевик",
+      "posterUrl": "https://picsum.photos/seed/ctv-m11/400/600",
+      "description": "Ночная погоня по мегаполису решает судьбу целого города.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "m12",
+      "title": "Deep Blue",
+      "year": 2016,
+      "genre": "Фантастика",
+      "posterUrl": "https://picsum.photos/seed/ctv-m12/400/600",
+      "description": "Экспедиция на дно океана открывает неизвестную форму жизни.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}

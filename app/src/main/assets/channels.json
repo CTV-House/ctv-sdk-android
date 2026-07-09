@@ -1,0 +1,74 @@
+{
+  "channels": [
+    {
+      "id": "ch1",
+      "name": "CTV One",
+      "category": "Развлекательные",
+      "logoUrl": "https://placehold.co/320x320/1f2a63/ffffff/png?text=CTV+One",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": "ch2",
+      "name": "CTV Show",
+      "category": "Развлекательные",
+      "logoUrl": "https://placehold.co/320x320/6d1f63/ffffff/png?text=CTV+Show",
+      "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+    },
+    {
+      "id": "ch3",
+      "name": "News 24",
+      "category": "Новости",
+      "logoUrl": "https://placehold.co/320x320/9b1c1c/ffffff/png?text=News+24",
+      "streamUrl": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+    },
+    {
+      "id": "ch4",
+      "name": "World News",
+      "category": "Новости",
+      "logoUrl": "https://placehold.co/320x320/12507a/ffffff/png?text=World+News",
+      "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8"
+    },
+    {
+      "id": "ch5",
+      "name": "Sport FLEX",
+      "category": "Спорт",
+      "logoUrl": "https://placehold.co/320x320/1c7a3a/ffffff/png?text=Sport+FLEX",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": "ch6",
+      "name": "Arena TV",
+      "category": "Спорт",
+      "logoUrl": "https://placehold.co/320x320/144d2e/ffffff/png?text=Arena+TV",
+      "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+    },
+    {
+      "id": "ch7",
+      "name": "Kids Land",
+      "category": "Детские",
+      "logoUrl": "https://placehold.co/320x320/b7791f/ffffff/png?text=Kids+Land",
+      "streamUrl": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+    },
+    {
+      "id": "ch8",
+      "name": "Cartoon Go",
+      "category": "Детские",
+      "logoUrl": "https://placehold.co/320x320/7a2f9b/ffffff/png?text=Cartoon+Go",
+      "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8"
+    },
+    {
+      "id": "ch9",
+      "name": "Cinema Plus",
+      "category": "Кино",
+      "logoUrl": "https://placehold.co/320x320/2d2d2d/ffffff/png?text=Cinema+Plus",
+      "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+    },
+    {
+      "id": "ch10",
+      "name": "Movie Max",
+      "category": "Кино",
+      "logoUrl": "https://placehold.co/320x320/3a1f6d/ffffff/png?text=Movie+Max",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ]
+}

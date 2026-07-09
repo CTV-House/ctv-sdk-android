@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CTV Demo</string>
+    <string name="browse_title">CTV Demo</string>
+
+    <string name="loading">Загрузка…</string>
+    <string name="no_ad">Реклама недоступна: %1$s</string>
+</resources>
